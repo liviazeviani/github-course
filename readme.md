@@ -1,4 +1,7 @@
-este é um repositório teste
-i
-dia 06 de julho - curso disponível em willianjusten.com.br
-arquivo para iniciantes
+
+Esse é um repositório teste.
+Aprendendo GIT e GITHUB
+Apredendo alguns comandos básicos do VIM também.
+Para inserir teste tecla i para deletar linha tecla ESC e dj
+
+
